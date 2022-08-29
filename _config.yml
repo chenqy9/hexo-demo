@@ -110,4 +110,4 @@ search:
 deploy:
   type: git
   repo: https://github.com/chenqy9/hexo-demo.git
-  branch: master
+  branch: main
